@@ -286,7 +286,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("android_service_will_start_tip", "\"Ekraanisalvestuse\" lubamine käivitab teenuse automaatselt, lubades teistel seadetel sinu seadmesse ühendust taotleda."),
         ("android_stop_service_tip", "Teenuse sulgemine sulgeb automaatselt kõik loodud ühendused."),
         ("android_version_audio_tip", "Kasutatav Androidi versioon ei toeta helisalvestust, palun täienda Android 10 või uuemale versioonile."),
-        ("android_start_service_tip", "Koputa [Alusta teenust] või anna [Ekraanisalvestuse] luba, et ekraanijagamisteenust alustada."),
+        ("android_start_service_tip", "Koputa [Käivita teenus] või anna [Ekraanisalvestuse] luba, et ekraanijagamisteenust alustada."),
         ("android_permission_may_not_change_tip", "Loodud ühenduste õigused ei pruugi muutuda enne taasühendamist koheselt."),
         ("Account", "Konto"),
         ("Overwrite", "Ülekirjutamine"),
